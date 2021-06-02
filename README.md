@@ -25,6 +25,10 @@ Email client is a web cum mobile application built using AppJS. The application 
  
  <img src = "appjs2.png" alt = "sendemailpage-image">
  
+  <h3>Result Example</h3>
+ 
+ <img src = "appjs3.png" alt = "sendemailpage-image">
+ 
  <h2>In action </h2>
 
 <p> see this application in action <a href="http://jayasampathwebhosting-com.stackstaging.com/projects/email-client-app/">here </a></p>
